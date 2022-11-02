@@ -21,7 +21,7 @@ export default function App({ Component, pageProps }: AppProps): ReactElement {
           theme="default"
           style={{ textAlign: "center" }}
         >
-          <Button><a href="https://mailsac.com">Temporary Email by Mailsac</a></Button>
+         
         </AppBar>
       </footer>
     </Layout>
